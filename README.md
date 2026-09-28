@@ -1,3 +1,5 @@
+<img src="https://kladde-dev.github.io/static/logo.svg" alt="kladde logo" width="80" align="right">
+
 # kladde-dev/.github
 
 The profile of the [kladde-dev](https://github.com/kladde-dev) organization on GitHub: [`profile/README.md`](profile/README.md) is what the organization's page shows.

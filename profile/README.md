@@ -1,3 +1,5 @@
+<img src="https://kladde-dev.github.io/static/logo.svg" alt="kladde logo" width="80" align="right">
+
 # Kladde
 
 **Durable data structures: mutate in memory, and it's on disk.**
